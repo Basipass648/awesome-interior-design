@@ -257,6 +257,7 @@ This repository aims to be the ultimate collection of interior design resources.
 - [Interior Design Questionnaire Guide — IDBS Online](https://www.idbs.online/the-interior-design-questionnaire-complete-guide/) — Complete guide on writing, structuring, and using client questionnaires
 - [Interior Design Quotation Template — Mydoma Studio](https://mydomastudio.com/learn/resources/quotation-template/) — Free quotation template for presenting pricing proposals to clients
 - [Interior Design Fee Structures Guide — IDBS Online](https://www.idbs.online/interior-design-fee-structures-complete-guide/) — Explains hourly, flat-fee, percentage, and hybrid pricing models
+- [SceneArrow Selection Brief Maker](https://scenearrow.com/tools/selection-brief) — Free, no-account worksheet for product references, priorities, and questions before a client/showroom discussion; HTML download and browser printing. Drafts stay in the open page. **Commercial provider; free tool.**
 
 #### 📚 Industry Standards & Guidelines
 - [CIDQ / NCIDQ Certification](https://www.cidq.org/) — Official body for the globally recognized NCIDQ interior design certification
